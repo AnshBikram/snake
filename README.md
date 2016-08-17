@@ -1,4 +1,4 @@
 # snake
 A snake game in C
 
-Developed in 2011
+Developed in year 2011
